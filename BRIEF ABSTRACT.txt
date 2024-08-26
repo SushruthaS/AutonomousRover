@@ -1,0 +1,15 @@
+BRIEF ABSTRACT
+
+This project develops an autonomous rover designed for efficient navigation in constrained environments. The rover integrates three key functions: localization, navigation, and locomotion. Localization is achieved
+using the Neo 7 GPS module, accurately determining the rover’s position. For navigation, a customized path planning algorithm calculates the
+optimal route to a target location, while ultrasonic sensors facilitate real-time obstacle detection and avoidance, allowing the rover to autonomously
+navigate around obstacles.
+Additionally, the rover incorporates basic decision-making capabilities,
+enabling it to execute simple decisions based on algorithms for route planning and obstacle avoidance. Locomotion is powered by motor drivers and
+motors, ensuring reliable movement along the planned path.
+The primary expected outcome is a fully functional rover capable of
+perceiving its environment and navigating autonomously, without human
+intervention. This integrated approach not only enhances the rover’s operational efficiency but also contributes to advancements in robotic navigation technologies, making it suitable for various applications in dynamic
+terrains. The successful implementation of these features will represent a
+significant step forward in the development of sophisticated autonomous
+system
